@@ -148,6 +148,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/chromatic/Task-ModernPerlBook-4e/issues"
+      },
+      "homepage" : "https://github.com/chromatic/Task-ModernPerlBook-4e",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/chromatic/Task-ModernPerlBook-4e.git",
+         "web" : "https://github.com/chromatic/Task-ModernPerlBook-4e"
+      }
+   },
    "version" : "1.00",
    "x_authority" : "cpan:CHROMATIC",
    "x_serialization_backend" : "JSON::PP version 4.05",
